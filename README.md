@@ -87,8 +87,3 @@ User authentication & watchlists.
 
 Integration with trading APIs (e.g., Alpaca, Zerodha Kite).
 
-
-
-
-
-ChatGPT can make mistakes. Check important info. See Cookie Preferences.
